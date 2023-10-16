@@ -1,1 +1,4 @@
 # aboutme
+## My name is Viviana Alba and I am a web development fellow with a background in healthcare and molecular biology. I am a graduate of the Univeristy of California, Santa Cruz with a B.S. in Molecular, Cell, and Development Biology and a B.A. in Latin American and Latino Studies. After graduation, I began working in clinical research, which showed me how the power of technology and data can truly change the world. I am passionate about data ethics and diversity, and hope to pursue a junior web development role after the fellowship. In me freetime, I enjoy spending time with loved ones, going to the gym, and going to concerts.
+### I am currently learning Git, Javascript, and Python.
+!(https://raw.githubusercontent.com/vivianaalba/vivianaalba.github.io/main/Electronic%20Medium%20Banner.jpg)
